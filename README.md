@@ -14,7 +14,7 @@ O projeto é um site informativo sobre ongs que estão precisando de ajuda com d
 
 #
 <div align="left"> 
-  <strong>📱 Telas do App:</strong>
+  <strong>📱 Telas do Site:</strong>
 </div>
 </br>
 <div align="left">  
