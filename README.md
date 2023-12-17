@@ -8,7 +8,7 @@
 </div>
 
 <div align="justify">
-Projeto desenvolvido em dupla durante segundo semestre do primeiro ano do curso técnico de Desenvolvimento de Sistemas, na disciplina de Programação Web(PWEB). Este trabalho visa utilizar a estrutura básica do HTML com as tags semânticas em conjunto das norma padrão da língua brasileira.
+Projeto desenvolvido em dupla durante o segundo semestre do primeiro ano do curso técnico de Desenvolvimento de Sistemas, na disciplina de Programação Web(PWEB). Este trabalho visa utilizar a estrutura básica do HTML com as tags semânticas em conjunto das norma padrão da língua brasileira.
 O projeto é um site informativo sobre ongs que estão precisando de ajuda com doações. As principais páginas incluem as telas de Home, Nossas Doações, Doações e Suporte.
 </div>
 
